@@ -4,6 +4,7 @@
 - 목적: 2024 GGJ에 참가하여 개발한 최대 4인 멀티 플레이 게임입니다. 
 - 개발 규모: 7인 개발
 - 개발 기간: 2024.01.26 ~ 2024.01.28 (48시간)
+- GGJ link: [https://globalgamejam.org/games/2024/us-1](https://globalgamejam.org/games/2024/us-1)
 
 ### 2. 팀 소개 및 역할
 - 이도경: 기획
